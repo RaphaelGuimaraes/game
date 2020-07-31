@@ -12,4 +12,4 @@ describe('<Main />', () => {
 
     expect(container.firstChild).toMatchSnapshot()
   })
-});
+})
